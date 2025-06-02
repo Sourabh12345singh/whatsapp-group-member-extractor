@@ -20,6 +20,8 @@
    - Open [WhatsApp Web](https://web.whatsapp.com/)
    - Go to group info page
    - Click extension icon → "Extract Members"
+   - click on "view all"
+   - scroll slowly ...
    - Get your CSV! 📥
 
 ## 📝 CSV Format
@@ -32,7 +34,7 @@ Name | Phone Number | Admin Status
 
 - Requires WhatsApp Web login
 - Works only on group info pages
-- Takes ~30s for large groups
+- Takes ~30s for large groups (change as required)
 - Respects member privacy settings
 
 ## 🔒 Privacy
